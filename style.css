@@ -7,6 +7,10 @@ h1, h2, p {
   font-family: 'Roboto', sans-serif;
   }
 
+div {
+  display: block
+}
+
 .imagen-fondo {
   height: 100%;
   width: 100%;
@@ -14,6 +18,7 @@ h1, h2, p {
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute;
+
   }
 
 .cuadro-gris {
@@ -71,8 +76,5 @@ h1, h2, p {
       padding-right: 15px;
       position: relative;
     }
-
-    
-      
-      
+     
   }
