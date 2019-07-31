@@ -11,14 +11,12 @@ div {
   display: block
 }
 
-.imagen-fondo {
-  height: 100%;
-  width: 100%;
-  background-position: center;
+body {
+  background-image: url("https://s3.amazonaws.com/makeitreal/cars/jaguar-xe.jpg");
+  max-height: 100%;
+  max-width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
-  position: absolute;
-
   }
 
 .cuadro-gris {
